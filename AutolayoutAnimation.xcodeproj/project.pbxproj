@@ -405,7 +405,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AutolayoutAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutAnimation;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -416,7 +416,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = AutolayoutAnimation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutAnimation;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -427,7 +427,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AutolayoutAnimationTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutAnimationTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutAnimationTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutolayoutAnimation.app/AutolayoutAnimation";
 			};
@@ -439,7 +439,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = AutolayoutAnimationTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutAnimationTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutAnimationTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AutolayoutAnimation.app/AutolayoutAnimation";
 			};
@@ -450,7 +450,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = AutolayoutAnimationUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutAnimationUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutAnimationUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = AutolayoutAnimation;
 			};
@@ -461,7 +461,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = AutolayoutAnimationUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.comisys.AutolayoutAnimationUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.duanhongjin.AutolayoutAnimationUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = AutolayoutAnimation;
 			};
@@ -486,6 +486,7 @@
 				112753A31D1ADD0F007F18F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		112753A41D1ADD0F007F18F9 /* Build configuration list for PBXNativeTarget "AutolayoutAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +495,7 @@
 				112753A61D1ADD0F007F18F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		112753A71D1ADD0F007F18F9 /* Build configuration list for PBXNativeTarget "AutolayoutAnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +504,7 @@
 				112753A91D1ADD0F007F18F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
